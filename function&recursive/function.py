@@ -1,5 +1,5 @@
 def percent(marks):
-    p=((marks[0]+marks[1]+marks[2]+marks[3])/400)*100
+    p=((marks[0]+marks[1]+marks[2]+marks[3])/400 *100)
     return p
 
 marks=[45,85,42,78]
