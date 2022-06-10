@@ -1,5 +1,5 @@
 import random
-from statistics import mean
+from statistics import meanf
 
 def gameWin(comp,you):
     if comp==you:
