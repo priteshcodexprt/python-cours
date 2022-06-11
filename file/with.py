@@ -3,4 +3,4 @@ with open("another.txt",'r') as f:
 print(a)
 with open("another.txt",'w') as f:
     a=f.write("me")
-print(a)
+print(a)                                            
