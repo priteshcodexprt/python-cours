@@ -11,6 +11,6 @@
 a=4448
 b=788
 
-print("the sum of a and b is",a+b)
+print("the sum of a and b is :",a+b)
 
 
