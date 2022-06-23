@@ -12,4 +12,4 @@ while(usersGuess != randNumber):
     else:
         print("your Guess number is wrong !")
 
-print(f"You Guessed the number in {guesses} guesses")
+print(f"You Guessed the number in {guesses} guesses") 

@@ -3,5 +3,4 @@ def greet(name="strange"):
 
 
 
-greet("Pritesh")
-greet()
+greet("PRITESH")
